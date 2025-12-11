@@ -1,0 +1,5 @@
+{
+  "name": "IMS Barang Masuk",
+  "description": "Aplikasi Inventory Management System untuk pencatatan transaksi barang masuk (Inbound Stock) dengan validasi real-time.",
+  "requestFramePermissions": []
+}
